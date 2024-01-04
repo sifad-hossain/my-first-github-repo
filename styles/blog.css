@@ -1,0 +1,11 @@
+h2{
+    color: red;
+}
+
+div{
+    background-color: rgb(82, 123, 123);
+    color: indigo;
+    padding: 20px;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
